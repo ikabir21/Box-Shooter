@@ -1,4 +1,4 @@
-# Rollar Madness
+# Box Shooter
 
 Its a simple 3D FPS game created using unity game engine. It contains two levels. Task is to shoot the targets. Initially, 5s is available to complete the task. Shooting blue target will add 5 points, orange target will reduce 3s time and pink target will add 3s time. After collecting 5 coins it leads to level 2.
 
