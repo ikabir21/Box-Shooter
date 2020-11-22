@@ -4,8 +4,8 @@ Its a simple 3D FPS game created using unity game engine. It contains two levels
 
 Controls - <kbd>W</kbd>/<kbd>S</kbd>/<kbd>A</kbd>/<kbd>D</kbd> for moving the Player and <kbd>Ctrl</kbd> or <kbd>Space Bar</kbd> or <kbd>Left-Click</kbd> for shooting. [Click here](https://ikabir.itch.io/box-shooter) to enjoy it.
 
+![Screenshots](https://github.com/ikabir21/Box-Shooter/blob/main/Screenshot%20(56).png)
 ![Screenshots](https://github.com/ikabir21/Box-Shooter/blob/main/Screenshot%20(57).png)
 ![Screenshots](https://github.com/ikabir21/Box-Shooter/blob/main/Screenshot%20(58).png)
 ![Screenshots](https://github.com/ikabir21/Box-Shooter/blob/main/Screenshot%20(59).png)
 ![Screenshots](https://github.com/ikabir21/Box-Shooter/blob/main/Screenshot%20(60).png)
-![Screenshots](https://github.com/ikabir21/Box-Shooter/blob/main/Screenshot%20(61).png)
